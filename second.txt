@@ -1,1 +1,3 @@
 Thi is my second file created on VM
+Line added from Remote repository.
+
